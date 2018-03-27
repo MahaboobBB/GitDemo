@@ -7,7 +7,10 @@ public class RestAPITest {
 	
 	@Test
 	public void createBug(){
-		System.out.println("Create Bug Test");
+		System.out.println("Create Bug Test A");
+		System.out.println("Create Bug Test B");
+		System.out.println("Create Bug Test C");
+		System.out.println("Create Bug Test D");
 	}
 	
 	@Test
