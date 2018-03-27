@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="102" started-at="2018-03-20T04:32:36Z" finished-at="2018-03-20T04:32:36Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="102" started-at="2018-03-20T04:32:36Z" finished-at="2018-03-20T04:32:36Z">
+      <class name="Practise.Test.AppiumTest">
+        <test-method status="PASS" signature="nativeAppAndroid()[pri:0, instance:Practise.Test.AppiumTest@14bf9759]" name="nativeAppAndroid" duration-ms="20" started-at="2018-03-20T04:32:36Z" finished-at="2018-03-20T04:32:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nativeAppAndroid -->
+        <test-method status="PASS" signature="nativeMobile()[pri:0, instance:Practise.Test.AppiumTest@14bf9759]" name="nativeMobile" duration-ms="2" started-at="2018-03-20T04:32:36Z" finished-at="2018-03-20T04:32:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nativeMobile -->
+      </class> <!-- Practise.Test.AppiumTest -->
+      <class name="Practise.Test.SeleniumTest">
+        <test-method status="PASS" signature="elementSearch()[pri:0, instance:Practise.Test.SeleniumTest@4f7d0008]" name="elementSearch" duration-ms="2" started-at="2018-03-20T04:32:36Z" finished-at="2018-03-20T04:32:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementSearch -->
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:Practise.Test.SeleniumTest@4f7d0008]" name="openBrowser" duration-ms="4" started-at="2018-03-20T04:32:36Z" finished-at="2018-03-20T04:32:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+      </class> <!-- Practise.Test.SeleniumTest -->
+      <class name="Practise.Test.RestAPITest">
+        <test-method status="PASS" signature="createBug()[pri:0, instance:Practise.Test.RestAPITest@271053e1]" name="createBug" duration-ms="1" started-at="2018-03-20T04:32:36Z" finished-at="2018-03-20T04:32:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createBug -->
+        <test-method status="PASS" signature="postTwitter()[pri:0, instance:Practise.Test.RestAPITest@271053e1]" name="postTwitter" duration-ms="2" started-at="2018-03-20T04:32:36Z" finished-at="2018-03-20T04:32:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postTwitter -->
+      </class> <!-- Practise.Test.RestAPITest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
