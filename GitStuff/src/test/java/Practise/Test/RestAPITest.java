@@ -16,5 +16,9 @@ public class RestAPITest {
 	@Test
 	public void postTwitter(){
 		System.out.println("Post Twitter Test");
+		System.out.println("Post Twitter Test A");
+		System.out.println("Post Twitter Test B");
+		System.out.println("Post Twitter Test C");
+		System.out.println("Post Twitter Test D");
 	}
 }
